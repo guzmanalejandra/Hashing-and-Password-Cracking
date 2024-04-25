@@ -1,0 +1,2 @@
+Hash: 32d10c7b8cf96570ca04ce37f2a19d84240d3a89, Contraseña: abcdefghijklmnopqrstuvwxyz
+Hash: 264bc0768362a68984faea923efaa21f67f4d10a, Contraseña: P4ssw0rd
